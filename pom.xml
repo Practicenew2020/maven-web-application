@@ -97,13 +97,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexusown</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://99.79.63.75:8081/repository/Custom_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexusown</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://99.79.63.75:8081/repository/Custom_Snapshot/</url>
 	    </snapshotRepository>
